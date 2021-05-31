@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Nacos" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="nacos-console" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.nacos.Nacos" />
+    <option name="VM_PARAMETERS" value="-Dnacos.standalone=true" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
